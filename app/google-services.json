@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978145942140",
+    "project_id": "automotive-engineering-945f9",
+    "storage_bucket": "automotive-engineering-945f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978145942140:android:f9a526958a9993011887f9",
+        "android_client_info": {
+          "package_name": "com.nerdware.automotiveengineering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978145942140-tgccand2msv2r15at6mikg5ku3d82eul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIFFM0XArd2hvpR4IqJVnTwDeYcK0RsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978145942140-tgccand2msv2r15at6mikg5ku3d82eul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

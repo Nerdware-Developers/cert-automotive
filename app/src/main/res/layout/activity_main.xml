@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <ImageView
+       android:layout_width="200sp"
+       android:layout_height="200sp"
+       android:id="@+id/spalsh"
+      android:src="@drawable/splash"
+      android:layout_centerInParent="true"
+      />
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+      android:text="Automotive Engineering"
+      android:layout_below="@id/spalsh"
+      android:layout_centerInParent="true"
+      android:textSize="24sp"
+      android:textStyle="bold"
+       android:id="@+id/tt"
+      android:textColor="@color/black"/>
+   <ProgressBar
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+      android:layout_below="@id/tt"
+      android:layout_centerInParent="true"
+       android:id="@+id/porg"
+      android:layout_marginTop="30sp"/>
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+      android:text="Powered by Nerdware Developers"
+      android:layout_alignParentBottom="true"
+      android:layout_centerInParent="true"
+      android:layout_marginBottom="20sp"
+      android:textColor="@color/lavender"
+      android:textStyle="italic|bold"
+      android:textSize="18sp"/>
+
+
+
+</RelativeLayout>

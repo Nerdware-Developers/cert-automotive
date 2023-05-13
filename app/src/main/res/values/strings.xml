@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Certificate Automotive Engineering</string>
+    <string name="open_nav">Open </string>
+    <string name="close_nav">Open </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="admob_interstitial_id">
+        ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_app_id">
+       ca-app-pub-2829905592411826~7067143632"
+   </string>
+    <string name="module_2">Module 2</string>
+    <string name="todo">TODO</string>
+
+    <style name="ToolBarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
+
